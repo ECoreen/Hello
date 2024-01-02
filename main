@@ -9,3 +9,9 @@ print(c)
 print(\n)
 
 print(a + b + c)
+
+# Script count
+for i in range(10):
+  print(i)
+
+print('End')
