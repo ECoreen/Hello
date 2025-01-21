@@ -1,4 +1,4 @@
-# Hello my 1st code!
+# Hello!
 Hello World
 
 # Try something new code.
