@@ -1,6 +1,7 @@
-# Hello!
-Hello World First Script
+# Hello World!
+print("My First Script:")
 
-# Try something code.
-print("Hello World!")  
-# print("World!")
+# Try something code
+print("Hello World!")
+
+# End
